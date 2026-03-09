@@ -24,7 +24,7 @@
 
 | **Mes Langages les plus utilisés** | **Mes Statistiques de Code** |
 | :--- | :--- |
-| [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Henristote&layout=compact&theme=radical)] | [![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Henristote&show_icons=true&theme=radical)] |
+| ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Henristote&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Henristote&show_icons=true&theme=radical) |
 
 ---
 
